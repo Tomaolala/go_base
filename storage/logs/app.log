@@ -1,0 +1,9 @@
+[2023-03-25 22:49:16.471]	local.info	gin_test/main.go:16	log init success!
+[2023-03-25 22:51:13.887]	local.info	gin_test/main.go:16	log init success!
+[2023-03-25 22:51:19.228]	local.info	gin_test/main.go:16	log init success!
+[2023-03-25 22:51:40.548]	local.info	gin_test/main.go:16	log init success!
+[2023-03-25 22:51:50.157]	local.info	gin_test/main.go:16	log init success!
+[2023-03-26 18:16:06.976]	local.info	gin_test/main.go:16	log init success!
+[2023-03-26 18:53:19.974]	local.info	gin_test/main.go:16	log init success!
+[2023-03-26 18:57:05.368]	local.info	gin_test/main.go:16	log init success!
+[2023-03-26 19:01:04.586]	local.info	gin_test/main.go:16	log init success!
